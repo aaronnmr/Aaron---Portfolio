@@ -2,7 +2,7 @@
 type: PostLayout
 title: EASD GRAN CANARIA
 colors: colors-a
-date: '2024-06-03'
+date: ''
 author: content/data/team/doris-soto.json
 excerpt: Graphic design - Degree
 featuredImage:
