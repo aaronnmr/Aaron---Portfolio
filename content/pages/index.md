@@ -122,6 +122,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Ex
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
