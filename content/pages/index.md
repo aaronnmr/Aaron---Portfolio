@@ -84,7 +84,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Experienc
+    subtitle: Experiences
     showFeaturedImage: false
     actions:
       - type: Link
