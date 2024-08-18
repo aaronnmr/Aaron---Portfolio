@@ -84,7 +84,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: Experienc
     showFeaturedImage: false
     actions:
       - type: Link
