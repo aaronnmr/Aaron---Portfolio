@@ -84,7 +84,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Experiences
+    subtitle: Background
     showFeaturedImage: false
     actions:
       - type: Link
