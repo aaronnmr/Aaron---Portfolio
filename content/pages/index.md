@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'yes, it''s me!'
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: "Hi! I'm Aaron, graphic designer, with special\_interest in poster design. I also love working with\_photography and video."
     styles:
       self:
         height: auto
